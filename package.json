@@ -15,5 +15,9 @@
   "peerDependencies": {
     "react": "^17.0.1",
     "react-native": "^0.64.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neeleshrj/react-native-radio-buttons"
   }
 }
