@@ -4,7 +4,7 @@ Easy and simple to use Radio Buttons for your React Native Application.
 
 ## Installation
 
-`npm i react-native-simple-radio-buttons`
+`npm i react-native-custom-radio-buttons`
 
 ## Components
 
@@ -54,7 +54,7 @@ Easy and simple to use Radio Buttons for your React Native Application.
 
 #### Import
 
-`import RadioButtons from "react-native-radio-buttons"`
+`import RadioButtons from "react-native-custom-radio-buttons"`
 
 #### Usage
 
@@ -89,7 +89,7 @@ function Example(){
 
 #### Import
 
-`import RadioButtons from "react-native-radio-buttons"`
+`import RadioButtons from "react-native-custom-radio-buttons"`
 
 #### Usage
 
