@@ -1,0 +1,19 @@
+{
+  "name": "react-native-radio-buttons",
+  "version": "1.0.0",
+  "description": "Add radio buttons to your react-native application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "react-native",
+    "radio-button"
+  ],
+  "author": "Neelesh Ranjan Jha",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.64.3"
+  }
+}
