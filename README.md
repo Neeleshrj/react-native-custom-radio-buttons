@@ -1,4 +1,4 @@
-# React Native Radio Buttons
+# React Native Simple Radio Buttons
 
 Easy and simple to use Radio Buttons for your React Native Application.
 
